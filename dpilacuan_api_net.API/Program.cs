@@ -11,8 +11,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddTransient<IClienteRest,ClienteRest>();
-builder.Services.AddTransient<IRickAndMortyAppService,RickAndMortyAppService>();
+builder.Services.AddSingleton<IClienteRest,ClienteRest>();
+builder.Services.AddSingleton<IRickAndMortyAppService,RickAndMortyAppService>();
 
 var app = builder.Build();
 
