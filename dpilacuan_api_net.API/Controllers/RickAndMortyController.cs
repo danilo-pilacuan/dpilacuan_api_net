@@ -10,7 +10,7 @@ public class RickAndMortyController:ControllerBase
 {
     private readonly IRickAndMortyAppService rickAndMortyAppService;
 
-    RickAndMortyController(IRickAndMortyAppService rickAndMortyAppService)
+    public RickAndMortyController(IRickAndMortyAppService rickAndMortyAppService)
     {
         this.rickAndMortyAppService=rickAndMortyAppService;
     }

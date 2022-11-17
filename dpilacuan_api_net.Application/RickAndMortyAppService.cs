@@ -5,7 +5,7 @@ namespace dpilacuan_api_net.Application;
 public class RickAndMortyAppService : IRickAndMortyAppService
 {
     private readonly IClienteRest clienteRest;
-    RickAndMortyAppService(IClienteRest clienteRest)
+    public RickAndMortyAppService(IClienteRest clienteRest)
     {
         this.clienteRest=clienteRest;
     }
