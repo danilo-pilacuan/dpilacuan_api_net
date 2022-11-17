@@ -1,0 +1,15 @@
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\bin\Debug\net6.0\dpilacuan_api_net.Infraestructure.deps.json
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\bin\Debug\net6.0\dpilacuan_api_net.Infraestructure.dll
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\bin\Debug\net6.0\dpilacuan_api_net.Infraestructure.pdb
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\bin\Debug\net6.0\dpilacuan_api_net.Domain.dll
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\bin\Debug\net6.0\dpilacuan_api_net.Domain.pdb
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.csproj.AssemblyReference.cache
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.AssemblyInfoInputs.cache
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.AssemblyInfo.cs
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.csproj.CoreCompileInputs.cache
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.csproj.CopyComplete
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.dll
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\refint\dpilacuan_api_net.Infraestructure.dll
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\dpilacuan_api_net.Infraestructure.pdb
+c:\Users\dpilacua\Videos\dpilacuan_api_net\dpilacuan_api_net.Infraestructure\obj\Debug\net6.0\ref\dpilacuan_api_net.Infraestructure.dll

@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "RestSharp/106.6.10": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      },
+      "dpilacuan_api_net.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/dpilacuan_api_net.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/dpilacuan_api_net.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RestSharp/106.6.10": {
+      "sha512": "x1FM32hjnVOIn+DKtCs2Y4Q2DCUE5KW08NUXUd4GjgKjE+5PE0F6e9XfUg7nILo05M0TA/HRkRD/SeQ8+duOUA==",
+      "type": "package",
+      "path": "restsharp/106.6.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.6.10.nupkg.sha512",
+        "restsharp.nuspec"
+      ]
+    },
+    "dpilacuan_api_net.Domain/1.0.0": {
+      "type": "project",
+      "path": "../dpilacuan_api_net.Domain/dpilacuan_api_net.Domain.csproj",
+      "msbuildProject": "../dpilacuan_api_net.Domain/dpilacuan_api_net.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "RestSharp >= 106.6.10",
+      "dpilacuan_api_net.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dpilacua\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\dpilacua\\Videos\\dpilacuan_api_net\\dpilacuan_api_net.Infraestructure\\dpilacuan_api_net.Infraestructure.csproj",
+      "projectName": "dpilacuan_api_net.Infraestructure",
+      "projectPath": "c:\\Users\\dpilacua\\Videos\\dpilacuan_api_net\\dpilacuan_api_net.Infraestructure\\dpilacuan_api_net.Infraestructure.csproj",
+      "packagesPath": "C:\\Users\\dpilacua\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\dpilacua\\Videos\\dpilacuan_api_net\\dpilacuan_api_net.Infraestructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\dpilacua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "c:\\Users\\dpilacua\\Videos\\dpilacuan_api_net\\dpilacuan_api_net.Domain\\dpilacuan_api_net.Domain.csproj": {
+              "projectPath": "c:\\Users\\dpilacua\\Videos\\dpilacuan_api_net\\dpilacuan_api_net.Domain\\dpilacuan_api_net.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "RestSharp": {
+            "target": "Package",
+            "version": "[106.6.10, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

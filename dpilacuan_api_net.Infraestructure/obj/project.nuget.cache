@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jltO90Ae9/M/MYbR1dUoTUUd7B+AE26fTPT6aWVSgNqy/4MMNRvuR49iPSBOMpSgYC+4folsmvW/Wjswp1WpEA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\dpilacua\\Videos\\dpilacuan_api_net\\dpilacuan_api_net.Infraestructure\\dpilacuan_api_net.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dpilacua\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
